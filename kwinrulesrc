@@ -1,0 +1,17 @@
+[General]
+count=1
+rules=be023323-2e07-4f23-9769-4eb6b2830430
+
+[be023323-2e07-4f23-9769-4eb6b2830430]
+Description=blur
+decocolor=Everforest
+decocolorrule=2
+minsizerule=2
+noborder=true
+noborderrule=2
+opacityactive=100
+opacityactiverule=2
+opacityinactive=100
+opacityinactiverule=2
+wmclass=^(?!.*(gimp|krita|plasmashell|krunner|spectacle)).*$
+wmclassmatch=3
